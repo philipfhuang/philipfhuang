@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Feiran (Philip)</h3>
+<h1 align="center">Hi 👋, I'm Feiran (Philip)</h3>
 
 - 🎓A fourth-year Computer Science student at the University of Toronto.
 - 🌱 I have learned **Data Structure, Algorithm Design, Artificial Intelligence, Machine Learning, Deep Learning, Parallel Programing, Database, Web Programming, Software Design, System Programming**
@@ -55,11 +55,11 @@
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40" />
     </a>
-    <a href="https://figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40" />
-    </a>
     <a href="https://jquery.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40" />
+    </a>
+    <a href="https://figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40" />
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />
@@ -111,3 +111,6 @@
     <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philipfhuang&layout=compact&langs_count=8" />
     <span>&emsp;&emsp;</span>
 </div>
+
+<h3 align="left">Recent Activities:</h3>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=philipfhuang&theme=vue" alt="jingwenshi-dev" /></p>
