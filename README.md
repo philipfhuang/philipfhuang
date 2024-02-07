@@ -99,6 +99,8 @@
     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
         <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png" alt="aws" width="40"  />
     </a>
+    <a href="https://gazebosim.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gazebo/gazebo-original-wordmark.svg" alt="gazebo" width="40" height="40" />
     </a>
 </div>
 
