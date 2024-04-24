@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Feiran (Philip)</h3>
 
-- 🎓A fourth-year Computer Science student at the University of Toronto.
+- 🎓 A fourth-year Computer Science student at the University of Toronto.
 - 🌱 I have learned **Data Structure, Algorithm Design, Artificial Intelligence, Machine Learning, Deep Learning, Neural Network, Parallel programming, Database, Web Programming, Software Design, Software Engineering, System Programming, Scalable Computing, Robotics**
 
 
